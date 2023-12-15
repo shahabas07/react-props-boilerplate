@@ -1,0 +1,17 @@
+
+ .body{
+    display: grid;
+    grid-template-columns: repeat(2, 300px);
+    grid-gap: 20px;
+    justify-content: center;
+}
+
+img{
+    width: 100%;
+}
+
+.header{
+    align-items: center;
+    font-size: 30px;
+    text-align: center;
+} 
